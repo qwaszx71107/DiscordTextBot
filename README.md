@@ -1,1 +1,1 @@
-# DiscordTextbot
+# DiscordTextBot
